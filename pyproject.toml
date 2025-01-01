@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "polyclover"
 version = "0.1.0"
-description = "collaborative 4-leaf-clover hunter app"
+description = "collaborative 4-leaf-clover hunting app"
 authors = ["David Samson <david.andrew.engineer@gmail.com>"]
 readme = "README.md"
 
